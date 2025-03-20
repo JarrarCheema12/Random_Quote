@@ -31,4 +31,5 @@ This project is a **Random Quote Generator** that fetches quotes from an API and
 
 ## 🔗 API Used
 We use the **FreeAPI Random Quotes** endpoint:
-![Screenshot (56)](https://github.com/user-attachments/assets/977a8aa9-31de-4107-bf63-c11579c2ab1d)
+
+![Screenshot (58)](https://github.com/user-attachments/assets/1611e446-825f-4494-8742-fbaf3a0c2426)
